@@ -9,10 +9,12 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/aarong21/LCSolutions/tree/master/0200-number-of-islands) |
+| [0744-network-delay-time](https://github.com/aarong21/LCSolutions/tree/master/0744-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/aarong21/LCSolutions/tree/master/0200-number-of-islands) |
+| [0744-network-delay-time](https://github.com/aarong21/LCSolutions/tree/master/0744-network-delay-time) |
 ## Union Find
 |  |
 | ------- |
@@ -21,4 +23,16 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/aarong21/LCSolutions/tree/master/0200-number-of-islands) |
+## Graph
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/aarong21/LCSolutions/tree/master/0744-network-delay-time) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/aarong21/LCSolutions/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/aarong21/LCSolutions/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
