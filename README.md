@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aarong21/LCSolutions/tree/master/0001-two-sum) |
 | [0064-minimum-path-sum](https://github.com/aarong21/LCSolutions/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/aarong21/LCSolutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aarong21/LCSolutions/tree/master/0200-number-of-islands) |
@@ -78,4 +79,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aarong21/LCSolutions/tree/master/0070-climbing-stairs) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/aarong21/LCSolutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
