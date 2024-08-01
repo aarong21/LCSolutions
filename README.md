@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/aarong21/LCSolutions/tree/master/0001-two-sum) |
 | [0064-minimum-path-sum](https://github.com/aarong21/LCSolutions/tree/master/0064-minimum-path-sum) |
+| [0179-largest-number](https://github.com/aarong21/LCSolutions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/aarong21/LCSolutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aarong21/LCSolutions/tree/master/0200-number-of-islands) |
 | [0948-sort-an-array](https://github.com/aarong21/LCSolutions/tree/master/0948-sort-an-array) |
@@ -52,6 +53,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/aarong21/LCSolutions/tree/master/0179-largest-number) |
 | [0948-sort-an-array](https://github.com/aarong21/LCSolutions/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -92,6 +94,7 @@
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/aarong21/LCSolutions/tree/master/0179-largest-number) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/aarong21/LCSolutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
@@ -100,6 +103,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/aarong21/LCSolutions/tree/master/0179-largest-number) |
 | [1487-cinema-seat-allocation](https://github.com/aarong21/LCSolutions/tree/master/1487-cinema-seat-allocation) |
 ## Bit Manipulation
 |  |
