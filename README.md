@@ -78,12 +78,14 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/aarong21/LCSolutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aarong21/LCSolutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/aarong21/LCSolutions/tree/master/0096-unique-binary-search-trees) |
 | [0797-rabbits-in-forest](https://github.com/aarong21/LCSolutions/tree/master/0797-rabbits-in-forest) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/aarong21/LCSolutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/aarong21/LCSolutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/aarong21/LCSolutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/aarong21/LCSolutions/tree/master/0096-unique-binary-search-trees) |
@@ -136,4 +138,8 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/aarong21/LCSolutions/tree/master/0096-unique-binary-search-trees) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/aarong21/LCSolutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
