@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/aarong21/LCSolutions/tree/master/0001-two-sum) |
 | [0064-minimum-path-sum](https://github.com/aarong21/LCSolutions/tree/master/0064-minimum-path-sum) |
+| [0139-word-break](https://github.com/aarong21/LCSolutions/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/aarong21/LCSolutions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/aarong21/LCSolutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aarong21/LCSolutions/tree/master/0200-number-of-islands) |
@@ -89,21 +90,25 @@
 | [0064-minimum-path-sum](https://github.com/aarong21/LCSolutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/aarong21/LCSolutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/aarong21/LCSolutions/tree/master/0096-unique-binary-search-trees) |
+| [0139-word-break](https://github.com/aarong21/LCSolutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/aarong21/LCSolutions/tree/master/0198-house-robber) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/aarong21/LCSolutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aarong21/LCSolutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/aarong21/LCSolutions/tree/master/0139-word-break) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aarong21/LCSolutions/tree/master/0001-two-sum) |
+| [0139-word-break](https://github.com/aarong21/LCSolutions/tree/master/0139-word-break) |
 | [0797-rabbits-in-forest](https://github.com/aarong21/LCSolutions/tree/master/0797-rabbits-in-forest) |
 | [1487-cinema-seat-allocation](https://github.com/aarong21/LCSolutions/tree/master/1487-cinema-seat-allocation) |
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/aarong21/LCSolutions/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/aarong21/LCSolutions/tree/master/0179-largest-number) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/aarong21/LCSolutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2727-number-of-senior-citizens](https://github.com/aarong21/LCSolutions/tree/master/2727-number-of-senior-citizens) |
@@ -142,4 +147,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/aarong21/LCSolutions/tree/master/0062-unique-paths) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/aarong21/LCSolutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
