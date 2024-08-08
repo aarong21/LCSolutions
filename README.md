@@ -87,6 +87,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aarong21/LCSolutions/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/aarong21/LCSolutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/aarong21/LCSolutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/aarong21/LCSolutions/tree/master/0070-climbing-stairs) |
@@ -112,6 +113,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aarong21/LCSolutions/tree/master/0022-generate-parentheses) |
 | [0139-word-break](https://github.com/aarong21/LCSolutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/aarong21/LCSolutions/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/aarong21/LCSolutions/tree/master/0179-largest-number) |
@@ -160,5 +162,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aarong21/LCSolutions/tree/master/0022-generate-parentheses) |
 | [0140-word-break-ii](https://github.com/aarong21/LCSolutions/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
