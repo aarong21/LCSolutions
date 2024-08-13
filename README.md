@@ -13,6 +13,7 @@
 | [0179-largest-number](https://github.com/aarong21/LCSolutions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/aarong21/LCSolutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aarong21/LCSolutions/tree/master/0200-number-of-islands) |
+| [0473-matchsticks-to-square](https://github.com/aarong21/LCSolutions/tree/master/0473-matchsticks-to-square) |
 | [0797-rabbits-in-forest](https://github.com/aarong21/LCSolutions/tree/master/0797-rabbits-in-forest) |
 | [0901-advantage-shuffle](https://github.com/aarong21/LCSolutions/tree/master/0901-advantage-shuffle) |
 | [0948-sort-an-array](https://github.com/aarong21/LCSolutions/tree/master/0948-sort-an-array) |
@@ -98,6 +99,7 @@
 | [0139-word-break](https://github.com/aarong21/LCSolutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/aarong21/LCSolutions/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/aarong21/LCSolutions/tree/master/0198-house-robber) |
+| [0473-matchsticks-to-square](https://github.com/aarong21/LCSolutions/tree/master/0473-matchsticks-to-square) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/aarong21/LCSolutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Memoization
 |  |
@@ -138,6 +140,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/aarong21/LCSolutions/tree/master/0078-subsets) |
+| [0473-matchsticks-to-square](https://github.com/aarong21/LCSolutions/tree/master/0473-matchsticks-to-square) |
 | [1487-cinema-seat-allocation](https://github.com/aarong21/LCSolutions/tree/master/1487-cinema-seat-allocation) |
 ## Two Pointers
 |  |
@@ -171,4 +174,9 @@
 | [0078-subsets](https://github.com/aarong21/LCSolutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aarong21/LCSolutions/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/aarong21/LCSolutions/tree/master/0140-word-break-ii) |
+| [0473-matchsticks-to-square](https://github.com/aarong21/LCSolutions/tree/master/0473-matchsticks-to-square) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/aarong21/LCSolutions/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
