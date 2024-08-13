@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aarong21/LCSolutions/tree/master/0001-two-sum) |
+| [0051-n-queens](https://github.com/aarong21/LCSolutions/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/aarong21/LCSolutions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/aarong21/LCSolutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aarong21/LCSolutions/tree/master/0079-word-search) |
@@ -171,6 +172,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aarong21/LCSolutions/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/aarong21/LCSolutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/aarong21/LCSolutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aarong21/LCSolutions/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/aarong21/LCSolutions/tree/master/0140-word-break-ii) |
