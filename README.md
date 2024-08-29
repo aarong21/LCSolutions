@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/aarong21/LCSolutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aarong21/LCSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/aarong21/LCSolutions/tree/master/0027-remove-element) |
 | [0051-n-queens](https://github.com/aarong21/LCSolutions/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/aarong21/LCSolutions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/aarong21/LCSolutions/tree/master/0078-subsets) |
@@ -160,6 +161,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aarong21/LCSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/aarong21/LCSolutions/tree/master/0027-remove-element) |
 | [0901-advantage-shuffle](https://github.com/aarong21/LCSolutions/tree/master/0901-advantage-shuffle) |
 ## Tree
 |  |
