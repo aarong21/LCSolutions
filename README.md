@@ -20,6 +20,7 @@
 | [0200-number-of-islands](https://github.com/aarong21/LCSolutions/tree/master/0200-number-of-islands) |
 | [0403-frog-jump](https://github.com/aarong21/LCSolutions/tree/master/0403-frog-jump) |
 | [0473-matchsticks-to-square](https://github.com/aarong21/LCSolutions/tree/master/0473-matchsticks-to-square) |
+| [0506-relative-ranks](https://github.com/aarong21/LCSolutions/tree/master/0506-relative-ranks) |
 | [0624-maximum-distance-in-arrays](https://github.com/aarong21/LCSolutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0797-rabbits-in-forest](https://github.com/aarong21/LCSolutions/tree/master/0797-rabbits-in-forest) |
 | [0901-advantage-shuffle](https://github.com/aarong21/LCSolutions/tree/master/0901-advantage-shuffle) |
@@ -57,6 +58,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/aarong21/LCSolutions/tree/master/0506-relative-ranks) |
 | [0744-network-delay-time](https://github.com/aarong21/LCSolutions/tree/master/0744-network-delay-time) |
 | [0948-sort-an-array](https://github.com/aarong21/LCSolutions/tree/master/0948-sort-an-array) |
 ## Shortest Path
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/aarong21/LCSolutions/tree/master/0179-largest-number) |
+| [0506-relative-ranks](https://github.com/aarong21/LCSolutions/tree/master/0506-relative-ranks) |
 | [0901-advantage-shuffle](https://github.com/aarong21/LCSolutions/tree/master/0901-advantage-shuffle) |
 | [0948-sort-an-array](https://github.com/aarong21/LCSolutions/tree/master/0948-sort-an-array) |
 ## Merge Sort
