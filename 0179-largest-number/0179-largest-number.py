@@ -1,28 +1,18 @@
 class Solution:
     def largestNumber(self, nums: List[int]) -> str:
 
-        lst = []
-        # for num in nums:
-        #     lst += [str(num)]
-            
+        # convert to string list
         lst = [*map(str,nums)]
+        # compare current number to rest of numbers after
         for i in range(len(nums)):
-            for j in range(i+1, len(nums)):
-                if str(lst[i]) + str(lst[j]) > str(lst[j]) + str(lst[i]):
+            for j in range(i+1,len(nums)):
+                # if str of curr + next > next + curr
+                # its in right order, else swap
+                if lst[i]+lst[j] > lst[j]+lst[i]:
                     continue
                 else:
                     lst[i], lst[j] = lst[j], lst[i]
+        # put altogether into a string
         res = ''.join(lst)
 
         return str(int(res))
-
-        '''
-        Using a custom comparator:
-        lst.sort(key=lambda x:x[0]+x[-1],reverse=True)
-
-        Stripping 0's from ans instead of casting twice
-        ''.join(lst).lstrip('0') or '0'
-        3 30 34 5 9
-        "9"
-        
-        '''
