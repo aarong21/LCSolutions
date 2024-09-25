@@ -18,6 +18,7 @@
 | [0179-largest-number](https://github.com/aarong21/LCSolutions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/aarong21/LCSolutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aarong21/LCSolutions/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/aarong21/LCSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0403-frog-jump](https://github.com/aarong21/LCSolutions/tree/master/0403-frog-jump) |
 | [0473-matchsticks-to-square](https://github.com/aarong21/LCSolutions/tree/master/0473-matchsticks-to-square) |
 | [0506-relative-ranks](https://github.com/aarong21/LCSolutions/tree/master/0506-relative-ranks) |
@@ -58,6 +59,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aarong21/LCSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/aarong21/LCSolutions/tree/master/0506-relative-ranks) |
 | [0744-network-delay-time](https://github.com/aarong21/LCSolutions/tree/master/0744-network-delay-time) |
 | [0948-sort-an-array](https://github.com/aarong21/LCSolutions/tree/master/0948-sort-an-array) |
@@ -68,11 +70,13 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aarong21/LCSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/aarong21/LCSolutions/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/aarong21/LCSolutions/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/aarong21/LCSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/aarong21/LCSolutions/tree/master/0506-relative-ranks) |
 | [0901-advantage-shuffle](https://github.com/aarong21/LCSolutions/tree/master/0901-advantage-shuffle) |
 | [0948-sort-an-array](https://github.com/aarong21/LCSolutions/tree/master/0948-sort-an-array) |
@@ -212,4 +216,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aarong21/LCSolutions/tree/master/0002-add-two-numbers) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aarong21/LCSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
