@@ -9,3 +9,5 @@ class Solution:
             ans[tuple(lis)].append(st) # use list as key and have words as values
 
         return ans.values()
+
+        
