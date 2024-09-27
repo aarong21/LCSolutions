@@ -21,6 +21,7 @@
 | [0200-number-of-islands](https://github.com/aarong21/LCSolutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aarong21/LCSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/aarong21/LCSolutions/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/aarong21/LCSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/aarong21/LCSolutions/tree/master/0403-frog-jump) |
 | [0473-matchsticks-to-square](https://github.com/aarong21/LCSolutions/tree/master/0473-matchsticks-to-square) |
 | [0506-relative-ranks](https://github.com/aarong21/LCSolutions/tree/master/0506-relative-ranks) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aarong21/LCSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/aarong21/LCSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/aarong21/LCSolutions/tree/master/0506-relative-ranks) |
 | [0744-network-delay-time](https://github.com/aarong21/LCSolutions/tree/master/0744-network-delay-time) |
 | [0948-sort-an-array](https://github.com/aarong21/LCSolutions/tree/master/0948-sort-an-array) |
@@ -73,6 +75,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aarong21/LCSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/aarong21/LCSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/aarong21/LCSolutions/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
@@ -82,6 +85,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/aarong21/LCSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/aarong21/LCSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aarong21/LCSolutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/aarong21/LCSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/aarong21/LCSolutions/tree/master/0506-relative-ranks) |
 | [0901-advantage-shuffle](https://github.com/aarong21/LCSolutions/tree/master/0901-advantage-shuffle) |
 | [0948-sort-an-array](https://github.com/aarong21/LCSolutions/tree/master/0948-sort-an-array) |
@@ -92,6 +96,7 @@
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aarong21/LCSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/aarong21/LCSolutions/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -100,6 +105,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aarong21/LCSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aarong21/LCSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/aarong21/LCSolutions/tree/master/0948-sort-an-array) |
 ## Math
@@ -141,6 +147,7 @@
 | [0140-word-break-ii](https://github.com/aarong21/LCSolutions/tree/master/0140-word-break-ii) |
 | [0217-contains-duplicate](https://github.com/aarong21/LCSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aarong21/LCSolutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/aarong21/LCSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0797-rabbits-in-forest](https://github.com/aarong21/LCSolutions/tree/master/0797-rabbits-in-forest) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aarong21/LCSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1487-cinema-seat-allocation](https://github.com/aarong21/LCSolutions/tree/master/1487-cinema-seat-allocation) |
@@ -232,4 +239,5 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aarong21/LCSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/aarong21/LCSolutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
