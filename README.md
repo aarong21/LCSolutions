@@ -14,6 +14,7 @@
 | [0079-word-search](https://github.com/aarong21/LCSolutions/tree/master/0079-word-search) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aarong21/LCSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aarong21/LCSolutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/aarong21/LCSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/aarong21/LCSolutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/aarong21/LCSolutions/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/aarong21/LCSolutions/tree/master/0179-largest-number) |
@@ -48,6 +49,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aarong21/LCSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/aarong21/LCSolutions/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
@@ -144,6 +146,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/aarong21/LCSolutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/aarong21/LCSolutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/aarong21/LCSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/aarong21/LCSolutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/aarong21/LCSolutions/tree/master/0140-word-break-ii) |
 | [0217-contains-duplicate](https://github.com/aarong21/LCSolutions/tree/master/0217-contains-duplicate) |
