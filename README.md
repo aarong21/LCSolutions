@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aarong21/LCSolutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/aarong21/LCSolutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aarong21/LCSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aarong21/LCSolutions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/aarong21/LCSolutions/tree/master/0049-group-anagrams) |
@@ -83,6 +84,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aarong21/LCSolutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/aarong21/LCSolutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/aarong21/LCSolutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aarong21/LCSolutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -193,6 +195,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aarong21/LCSolutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aarong21/LCSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aarong21/LCSolutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/aarong21/LCSolutions/tree/master/0125-valid-palindrome) |
