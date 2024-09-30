@@ -161,6 +161,7 @@
 | [0022-generate-parentheses](https://github.com/aarong21/LCSolutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/aarong21/LCSolutions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/aarong21/LCSolutions/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/aarong21/LCSolutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/aarong21/LCSolutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/aarong21/LCSolutions/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/aarong21/LCSolutions/tree/master/0179-largest-number) |
@@ -194,6 +195,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aarong21/LCSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aarong21/LCSolutions/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/aarong21/LCSolutions/tree/master/0125-valid-palindrome) |
 | [0901-advantage-shuffle](https://github.com/aarong21/LCSolutions/tree/master/0901-advantage-shuffle) |
 | [1894-merge-strings-alternately](https://github.com/aarong21/LCSolutions/tree/master/1894-merge-strings-alternately) |
 ## Tree
