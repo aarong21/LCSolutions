@@ -156,6 +156,7 @@
 | [0217-contains-duplicate](https://github.com/aarong21/LCSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aarong21/LCSolutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aarong21/LCSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/aarong21/LCSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0797-rabbits-in-forest](https://github.com/aarong21/LCSolutions/tree/master/0797-rabbits-in-forest) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aarong21/LCSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1487-cinema-seat-allocation](https://github.com/aarong21/LCSolutions/tree/master/1487-cinema-seat-allocation) |
@@ -171,6 +172,7 @@
 | [0140-word-break-ii](https://github.com/aarong21/LCSolutions/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/aarong21/LCSolutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/aarong21/LCSolutions/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/aarong21/LCSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aarong21/LCSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/aarong21/LCSolutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1894-merge-strings-alternately](https://github.com/aarong21/LCSolutions/tree/master/1894-merge-strings-alternately) |
@@ -262,4 +264,5 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aarong21/LCSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/aarong21/LCSolutions/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
