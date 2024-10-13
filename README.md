@@ -164,6 +164,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aarong21/LCSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/aarong21/LCSolutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aarong21/LCSolutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/aarong21/LCSolutions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/aarong21/LCSolutions/tree/master/0079-word-search) |
@@ -180,6 +181,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aarong21/LCSolutions/tree/master/0020-valid-parentheses) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/aarong21/LCSolutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/aarong21/LCSolutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Greedy
