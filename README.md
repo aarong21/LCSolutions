@@ -19,6 +19,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/aarong21/LCSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/aarong21/LCSolutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/aarong21/LCSolutions/tree/master/0140-word-break-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/aarong21/LCSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/aarong21/LCSolutions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/aarong21/LCSolutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aarong21/LCSolutions/tree/master/0200-number-of-islands) |
@@ -219,6 +220,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/aarong21/LCSolutions/tree/master/0096-unique-binary-search-trees) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/aarong21/LCSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Binary Tree
 |  |
 | ------- |
