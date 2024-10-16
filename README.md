@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/aarong21/LCSolutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aarong21/LCSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aarong21/LCSolutions/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/aarong21/LCSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/aarong21/LCSolutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/aarong21/LCSolutions/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/aarong21/LCSolutions/tree/master/0064-minimum-path-sum) |
@@ -219,6 +220,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/aarong21/LCSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0096-unique-binary-search-trees](https://github.com/aarong21/LCSolutions/tree/master/0096-unique-binary-search-trees) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aarong21/LCSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Binary Tree
