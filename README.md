@@ -184,6 +184,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aarong21/LCSolutions/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/aarong21/LCSolutions/tree/master/0143-reorder-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/aarong21/LCSolutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/aarong21/LCSolutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Greedy
@@ -210,6 +211,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aarong21/LCSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aarong21/LCSolutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/aarong21/LCSolutions/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/aarong21/LCSolutions/tree/master/0143-reorder-list) |
 | [0901-advantage-shuffle](https://github.com/aarong21/LCSolutions/tree/master/0901-advantage-shuffle) |
 | [1894-merge-strings-alternately](https://github.com/aarong21/LCSolutions/tree/master/1894-merge-strings-alternately) |
 ## Tree
@@ -254,12 +256,14 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/aarong21/LCSolutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/aarong21/LCSolutions/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/aarong21/LCSolutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/aarong21/LCSolutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aarong21/LCSolutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/aarong21/LCSolutions/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/aarong21/LCSolutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/aarong21/LCSolutions/tree/master/0206-reverse-linked-list) |
 ## Quickselect
 |  |
