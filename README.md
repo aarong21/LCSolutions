@@ -45,6 +45,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/aarong21/LCSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/aarong21/LCSolutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/aarong21/LCSolutions/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/aarong21/LCSolutions/tree/master/0572-subtree-of-another-tree) |
 | [0744-network-delay-time](https://github.com/aarong21/LCSolutions/tree/master/0744-network-delay-time) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/aarong21/LCSolutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Breadth-First Search
@@ -231,6 +232,7 @@
 | [0100-same-tree](https://github.com/aarong21/LCSolutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aarong21/LCSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/aarong21/LCSolutions/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/aarong21/LCSolutions/tree/master/0572-subtree-of-another-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/aarong21/LCSolutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
@@ -245,6 +247,7 @@
 | [0100-same-tree](https://github.com/aarong21/LCSolutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aarong21/LCSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/aarong21/LCSolutions/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/aarong21/LCSolutions/tree/master/0572-subtree-of-another-tree) |
 ## Combinatorics
 |  |
 | ------- |
@@ -306,4 +309,12 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/aarong21/LCSolutions/tree/master/0146-lru-cache) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/aarong21/LCSolutions/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/aarong21/LCSolutions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
