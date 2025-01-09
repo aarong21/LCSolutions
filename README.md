@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/aarong21/LCSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/aarong21/LCSolutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/aarong21/LCSolutions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/aarong21/LCSolutions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/aarong21/LCSolutions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/aarong21/LCSolutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aarong21/LCSolutions/tree/master/0079-word-search) |
@@ -92,6 +93,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aarong21/LCSolutions/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aarong21/LCSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aarong21/LCSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/aarong21/LCSolutions/tree/master/0948-sort-an-array) |
@@ -140,6 +142,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aarong21/LCSolutions/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/aarong21/LCSolutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/aarong21/LCSolutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/aarong21/LCSolutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/aarong21/LCSolutions/tree/master/0070-climbing-stairs) |
