@@ -132,6 +132,7 @@
 | [0062-unique-paths](https://github.com/aarong21/LCSolutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aarong21/LCSolutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/aarong21/LCSolutions/tree/master/0096-unique-binary-search-trees) |
+| [0202-happy-number](https://github.com/aarong21/LCSolutions/tree/master/0202-happy-number) |
 | [0797-rabbits-in-forest](https://github.com/aarong21/LCSolutions/tree/master/0797-rabbits-in-forest) |
 ## Dynamic Programming
 |  |
@@ -166,6 +167,7 @@
 | [0140-word-break-ii](https://github.com/aarong21/LCSolutions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/aarong21/LCSolutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/aarong21/LCSolutions/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/aarong21/LCSolutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/aarong21/LCSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aarong21/LCSolutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aarong21/LCSolutions/tree/master/0347-top-k-frequent-elements) |
@@ -225,6 +227,7 @@
 | [0125-valid-palindrome](https://github.com/aarong21/LCSolutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/aarong21/LCSolutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/aarong21/LCSolutions/tree/master/0143-reorder-list) |
+| [0202-happy-number](https://github.com/aarong21/LCSolutions/tree/master/0202-happy-number) |
 | [0901-advantage-shuffle](https://github.com/aarong21/LCSolutions/tree/master/0901-advantage-shuffle) |
 | [1894-merge-strings-alternately](https://github.com/aarong21/LCSolutions/tree/master/1894-merge-strings-alternately) |
 ## Tree
