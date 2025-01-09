@@ -30,6 +30,7 @@
 | [0347-top-k-frequent-elements](https://github.com/aarong21/LCSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/aarong21/LCSolutions/tree/master/0403-frog-jump) |
 | [0473-matchsticks-to-square](https://github.com/aarong21/LCSolutions/tree/master/0473-matchsticks-to-square) |
+| [0498-diagonal-traverse](https://github.com/aarong21/LCSolutions/tree/master/0498-diagonal-traverse) |
 | [0506-relative-ranks](https://github.com/aarong21/LCSolutions/tree/master/0506-relative-ranks) |
 | [0624-maximum-distance-in-arrays](https://github.com/aarong21/LCSolutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0797-rabbits-in-forest](https://github.com/aarong21/LCSolutions/tree/master/0797-rabbits-in-forest) |
@@ -70,6 +71,7 @@
 | [0064-minimum-path-sum](https://github.com/aarong21/LCSolutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/aarong21/LCSolutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/aarong21/LCSolutions/tree/master/0200-number-of-islands) |
+| [0498-diagonal-traverse](https://github.com/aarong21/LCSolutions/tree/master/0498-diagonal-traverse) |
 ## Graph
 |  |
 | ------- |
@@ -327,4 +329,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/aarong21/LCSolutions/tree/master/0572-subtree-of-another-tree) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/aarong21/LCSolutions/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
