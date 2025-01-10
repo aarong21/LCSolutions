@@ -203,6 +203,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/aarong21/LCSolutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/aarong21/LCSolutions/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/aarong21/LCSolutions/tree/master/0155-min-stack) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/aarong21/LCSolutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/aarong21/LCSolutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Greedy
@@ -320,6 +321,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/aarong21/LCSolutions/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/aarong21/LCSolutions/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
