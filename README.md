@@ -38,6 +38,7 @@
 | [0797-rabbits-in-forest](https://github.com/aarong21/LCSolutions/tree/master/0797-rabbits-in-forest) |
 | [0901-advantage-shuffle](https://github.com/aarong21/LCSolutions/tree/master/0901-advantage-shuffle) |
 | [0948-sort-an-array](https://github.com/aarong21/LCSolutions/tree/master/0948-sort-an-array) |
+| [1036-rotting-oranges](https://github.com/aarong21/LCSolutions/tree/master/1036-rotting-oranges) |
 | [1487-cinema-seat-allocation](https://github.com/aarong21/LCSolutions/tree/master/1487-cinema-seat-allocation) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/aarong21/LCSolutions/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2727-number-of-senior-citizens](https://github.com/aarong21/LCSolutions/tree/master/2727-number-of-senior-citizens) |
@@ -61,6 +62,7 @@
 | [0200-number-of-islands](https://github.com/aarong21/LCSolutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/aarong21/LCSolutions/tree/master/0226-invert-binary-tree) |
 | [0744-network-delay-time](https://github.com/aarong21/LCSolutions/tree/master/0744-network-delay-time) |
+| [1036-rotting-oranges](https://github.com/aarong21/LCSolutions/tree/master/1036-rotting-oranges) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/aarong21/LCSolutions/tree/master/2151-the-time-when-the-network-becomes-idle) |
 ## Union Find
 |  |
@@ -74,6 +76,7 @@
 | [0079-word-search](https://github.com/aarong21/LCSolutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/aarong21/LCSolutions/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/aarong21/LCSolutions/tree/master/0498-diagonal-traverse) |
+| [1036-rotting-oranges](https://github.com/aarong21/LCSolutions/tree/master/1036-rotting-oranges) |
 ## Graph
 |  |
 | ------- |
