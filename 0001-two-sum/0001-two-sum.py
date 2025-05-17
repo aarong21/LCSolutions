@@ -1,9 +1,9 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        hm = {}
-        for ind in range(len(nums)):
-            num = nums[ind] # the number value
-            if target-num in hm:
-                return [ind,hm[target-num]]
-            hm[num] = ind # number : index
+        mapp = {}
+        for i in range(len(nums)):
+            num = nums[i]
+            if target-num in mapp:
+                return [i, mapp[target-num]]
+            mapp[num] = i 
         return []
