@@ -1,29 +1,21 @@
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
-        if not grid:
-            return 0
-
+        num_islands = 0
         rows, cols = len(grid), len(grid[0])
-        visit = set()
-        islands = 0
 
-        def bfs(r, c):
-            q = deque()
-            q.append((r,c))
-            visit.add((r,c))
-            while q:
-                row, col = q.popleft()
-                directions = [[-1,0],[0,-1],[1,0],[0,1]]
-                for rr, cc in directions:
-                    r,c = row + rr, col + cc
-                    if (r in range(rows) and c in range(cols) 
-                    and grid[r][c] == "1" and (r,c) not in visit):
-                        q.append((r,c))
-                        visit.add((r,c))
+        def dfs(r,c):
+            if r<0 or r>=rows or c<0 or c>=cols or grid[r][c]=='0':
+                return
+            grid[r][c] = '0'
+            dfs(r+1,c) # down
+            dfs(r-1,c) # up
+            dfs(r,c+1) # right
+            dfs(r,c-1) # left
+        
+        for i in range(rows):
+            for j in range(cols):
+                if grid[i][j] == '1':
+                    num_islands += 1
+                    dfs(i,j)
+        return num_islands
 
-        for r in range(rows):
-            for c in range(cols):
-                if grid[r][c] == "1" and (r,c) not in visit:
-                    bfs(r,c)
-                    islands += 1
-        return islands
