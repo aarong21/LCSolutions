@@ -89,6 +89,7 @@
 | [0347-top-k-frequent-elements](https://github.com/aarong21/LCSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/aarong21/LCSolutions/tree/master/0506-relative-ranks) |
 | [0744-network-delay-time](https://github.com/aarong21/LCSolutions/tree/master/0744-network-delay-time) |
+| [0778-reorganize-string](https://github.com/aarong21/LCSolutions/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/aarong21/LCSolutions/tree/master/0948-sort-an-array) |
 ## Shortest Path
 |  |
@@ -112,6 +113,7 @@
 | [0242-valid-anagram](https://github.com/aarong21/LCSolutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aarong21/LCSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/aarong21/LCSolutions/tree/master/0506-relative-ranks) |
+| [0778-reorganize-string](https://github.com/aarong21/LCSolutions/tree/master/0778-reorganize-string) |
 | [0901-advantage-shuffle](https://github.com/aarong21/LCSolutions/tree/master/0901-advantage-shuffle) |
 | [0948-sort-an-array](https://github.com/aarong21/LCSolutions/tree/master/0948-sort-an-array) |
 ## Merge Sort
@@ -131,6 +133,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aarong21/LCSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0778-reorganize-string](https://github.com/aarong21/LCSolutions/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aarong21/LCSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/aarong21/LCSolutions/tree/master/0948-sort-an-array) |
 ## Math
@@ -181,6 +184,7 @@
 | [0242-valid-anagram](https://github.com/aarong21/LCSolutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aarong21/LCSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/aarong21/LCSolutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0778-reorganize-string](https://github.com/aarong21/LCSolutions/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/aarong21/LCSolutions/tree/master/0797-rabbits-in-forest) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aarong21/LCSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1487-cinema-seat-allocation](https://github.com/aarong21/LCSolutions/tree/master/1487-cinema-seat-allocation) |
@@ -198,6 +202,7 @@
 | [0179-largest-number](https://github.com/aarong21/LCSolutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/aarong21/LCSolutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/aarong21/LCSolutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0778-reorganize-string](https://github.com/aarong21/LCSolutions/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aarong21/LCSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/aarong21/LCSolutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1894-merge-strings-alternately](https://github.com/aarong21/LCSolutions/tree/master/1894-merge-strings-alternately) |
@@ -217,6 +222,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aarong21/LCSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/aarong21/LCSolutions/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/aarong21/LCSolutions/tree/master/0624-maximum-distance-in-arrays) |
+| [0778-reorganize-string](https://github.com/aarong21/LCSolutions/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/aarong21/LCSolutions/tree/master/0797-rabbits-in-forest) |
 | [0901-advantage-shuffle](https://github.com/aarong21/LCSolutions/tree/master/0901-advantage-shuffle) |
 | [1487-cinema-seat-allocation](https://github.com/aarong21/LCSolutions/tree/master/1487-cinema-seat-allocation) |
