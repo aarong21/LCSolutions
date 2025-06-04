@@ -42,6 +42,7 @@
 | [1487-cinema-seat-allocation](https://github.com/aarong21/LCSolutions/tree/master/1487-cinema-seat-allocation) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/aarong21/LCSolutions/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2727-number-of-senior-citizens](https://github.com/aarong21/LCSolutions/tree/master/2727-number-of-senior-citizens) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/aarong21/LCSolutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -162,6 +163,7 @@
 | [0403-frog-jump](https://github.com/aarong21/LCSolutions/tree/master/0403-frog-jump) |
 | [0473-matchsticks-to-square](https://github.com/aarong21/LCSolutions/tree/master/0473-matchsticks-to-square) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/aarong21/LCSolutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/aarong21/LCSolutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Memoization
 |  |
 | ------- |
@@ -188,6 +190,7 @@
 | [0797-rabbits-in-forest](https://github.com/aarong21/LCSolutions/tree/master/0797-rabbits-in-forest) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aarong21/LCSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1487-cinema-seat-allocation](https://github.com/aarong21/LCSolutions/tree/master/1487-cinema-seat-allocation) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/aarong21/LCSolutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## String
 |  |
 | ------- |
@@ -226,6 +229,7 @@
 | [0797-rabbits-in-forest](https://github.com/aarong21/LCSolutions/tree/master/0797-rabbits-in-forest) |
 | [0901-advantage-shuffle](https://github.com/aarong21/LCSolutions/tree/master/0901-advantage-shuffle) |
 | [1487-cinema-seat-allocation](https://github.com/aarong21/LCSolutions/tree/master/1487-cinema-seat-allocation) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/aarong21/LCSolutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -323,6 +327,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/aarong21/LCSolutions/tree/master/0238-product-of-array-except-self) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/aarong21/LCSolutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Sliding Window
 |  |
 | ------- |
@@ -349,4 +354,8 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/aarong21/LCSolutions/tree/master/0498-diagonal-traverse) |
+## Enumeration
+|  |
+| ------- |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/aarong21/LCSolutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 <!---LeetCode Topics End-->
