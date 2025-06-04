@@ -27,6 +27,3 @@ class Solution:
                 old_to_new[curr].random = old_to_new[curr.random]
             curr = curr.next
         return old_to_new[head]
-        # two runs
-        # first run - deep copy the nodes
-        # second run - assign the next/random pointers
