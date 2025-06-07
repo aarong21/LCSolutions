@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/aarong21/LCSolutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/aarong21/LCSolutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aarong21/LCSolutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/aarong21/LCSolutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aarong21/LCSolutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/aarong21/LCSolutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aarong21/LCSolutions/tree/master/0053-maximum-subarray) |
@@ -74,6 +75,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aarong21/LCSolutions/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/aarong21/LCSolutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/aarong21/LCSolutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/aarong21/LCSolutions/tree/master/0200-number-of-islands) |
@@ -143,6 +145,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aarong21/LCSolutions/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/aarong21/LCSolutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/aarong21/LCSolutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aarong21/LCSolutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/aarong21/LCSolutions/tree/master/0096-unique-binary-search-trees) |
