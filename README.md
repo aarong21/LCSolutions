@@ -215,6 +215,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/aarong21/LCSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0778-reorganize-string](https://github.com/aarong21/LCSolutions/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aarong21/LCSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aarong21/LCSolutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/aarong21/LCSolutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1894-merge-strings-alternately](https://github.com/aarong21/LCSolutions/tree/master/1894-merge-strings-alternately) |
 | [2727-number-of-senior-citizens](https://github.com/aarong21/LCSolutions/tree/master/2727-number-of-senior-citizens) |
@@ -343,6 +344,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aarong21/LCSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/aarong21/LCSolutions/tree/master/0424-longest-repeating-character-replacement) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aarong21/LCSolutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Design
 |  |
 | ------- |
