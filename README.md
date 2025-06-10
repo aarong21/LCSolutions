@@ -45,6 +45,7 @@
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/aarong21/LCSolutions/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2727-number-of-senior-citizens](https://github.com/aarong21/LCSolutions/tree/master/2727-number-of-senior-citizens) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/aarong21/LCSolutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/aarong21/LCSolutions/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [0744-network-delay-time](https://github.com/aarong21/LCSolutions/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/aarong21/LCSolutions/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/aarong21/LCSolutions/tree/master/0948-sort-an-array) |
+| [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/aarong21/LCSolutions/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Shortest Path
 |  |
 | ------- |
@@ -121,6 +123,7 @@
 | [0778-reorganize-string](https://github.com/aarong21/LCSolutions/tree/master/0778-reorganize-string) |
 | [0901-advantage-shuffle](https://github.com/aarong21/LCSolutions/tree/master/0901-advantage-shuffle) |
 | [0948-sort-an-array](https://github.com/aarong21/LCSolutions/tree/master/0948-sort-an-array) |
+| [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/aarong21/LCSolutions/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Merge Sort
 |  |
 | ------- |
@@ -198,6 +201,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/aarong21/LCSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1487-cinema-seat-allocation](https://github.com/aarong21/LCSolutions/tree/master/1487-cinema-seat-allocation) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/aarong21/LCSolutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/aarong21/LCSolutions/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## String
 |  |
 | ------- |
@@ -239,6 +243,7 @@
 | [0901-advantage-shuffle](https://github.com/aarong21/LCSolutions/tree/master/0901-advantage-shuffle) |
 | [1487-cinema-seat-allocation](https://github.com/aarong21/LCSolutions/tree/master/1487-cinema-seat-allocation) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/aarong21/LCSolutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/aarong21/LCSolutions/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Bit Manipulation
 |  |
 | ------- |
