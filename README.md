@@ -22,6 +22,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aarong21/LCSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aarong21/LCSolutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/aarong21/LCSolutions/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/aarong21/LCSolutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/aarong21/LCSolutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/aarong21/LCSolutions/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aarong21/LCSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -248,6 +249,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/aarong21/LCSolutions/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/aarong21/LCSolutions/tree/master/0136-single-number) |
 | [0473-matchsticks-to-square](https://github.com/aarong21/LCSolutions/tree/master/0473-matchsticks-to-square) |
 | [1487-cinema-seat-allocation](https://github.com/aarong21/LCSolutions/tree/master/1487-cinema-seat-allocation) |
 ## Two Pointers
