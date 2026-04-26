@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/aarong21/LCSolutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/aarong21/LCSolutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aarong21/LCSolutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/aarong21/LCSolutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/aarong21/LCSolutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aarong21/LCSolutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/aarong21/LCSolutions/tree/master/0051-n-queens) |
@@ -160,6 +161,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aarong21/LCSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/aarong21/LCSolutions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/aarong21/LCSolutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/aarong21/LCSolutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/aarong21/LCSolutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/aarong21/LCSolutions/tree/master/0064-minimum-path-sum) |
@@ -228,6 +230,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aarong21/LCSolutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/aarong21/LCSolutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/aarong21/LCSolutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/aarong21/LCSolutions/tree/master/0155-min-stack) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/aarong21/LCSolutions/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -262,6 +265,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aarong21/LCSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aarong21/LCSolutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/aarong21/LCSolutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/aarong21/LCSolutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/aarong21/LCSolutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/aarong21/LCSolutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/aarong21/LCSolutions/tree/master/0143-reorder-list) |
@@ -377,4 +381,8 @@
 |  |
 | ------- |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/aarong21/LCSolutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aarong21/LCSolutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
