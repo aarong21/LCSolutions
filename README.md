@@ -38,6 +38,7 @@
 | [0473-matchsticks-to-square](https://github.com/aarong21/LCSolutions/tree/master/0473-matchsticks-to-square) |
 | [0498-diagonal-traverse](https://github.com/aarong21/LCSolutions/tree/master/0498-diagonal-traverse) |
 | [0506-relative-ranks](https://github.com/aarong21/LCSolutions/tree/master/0506-relative-ranks) |
+| [0560-subarray-sum-equals-k](https://github.com/aarong21/LCSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/aarong21/LCSolutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0797-rabbits-in-forest](https://github.com/aarong21/LCSolutions/tree/master/0797-rabbits-in-forest) |
 | [0901-advantage-shuffle](https://github.com/aarong21/LCSolutions/tree/master/0901-advantage-shuffle) |
@@ -199,6 +200,7 @@
 | [0242-valid-anagram](https://github.com/aarong21/LCSolutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aarong21/LCSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/aarong21/LCSolutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/aarong21/LCSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0778-reorganize-string](https://github.com/aarong21/LCSolutions/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/aarong21/LCSolutions/tree/master/0797-rabbits-in-forest) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aarong21/LCSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -349,6 +351,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/aarong21/LCSolutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/aarong21/LCSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/aarong21/LCSolutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Sliding Window
 |  |
