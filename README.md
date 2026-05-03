@@ -55,6 +55,7 @@
 | [0098-validate-binary-search-tree](https://github.com/aarong21/LCSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/aarong21/LCSolutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aarong21/LCSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aarong21/LCSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/aarong21/LCSolutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/aarong21/LCSolutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/aarong21/LCSolutions/tree/master/0226-invert-binary-tree) |
@@ -174,6 +175,7 @@
 | [0096-unique-binary-search-trees](https://github.com/aarong21/LCSolutions/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aarong21/LCSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aarong21/LCSolutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aarong21/LCSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/aarong21/LCSolutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/aarong21/LCSolutions/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/aarong21/LCSolutions/tree/master/0198-house-robber) |
@@ -286,6 +288,7 @@
 | [0100-same-tree](https://github.com/aarong21/LCSolutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/aarong21/LCSolutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aarong21/LCSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aarong21/LCSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/aarong21/LCSolutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aarong21/LCSolutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aarong21/LCSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -308,6 +311,7 @@
 | [0100-same-tree](https://github.com/aarong21/LCSolutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/aarong21/LCSolutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aarong21/LCSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aarong21/LCSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/aarong21/LCSolutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aarong21/LCSolutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aarong21/LCSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
