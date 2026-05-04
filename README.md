@@ -403,4 +403,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aarong21/LCSolutions/tree/master/0042-trapping-rain-water) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/aarong21/LCSolutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
